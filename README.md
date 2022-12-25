@@ -1,6 +1,6 @@
 # Copying files with error showing batch file.
 
-#This script is a batch file for the Windows command prompt that copies all files from a source directory to a destination directory. It also tracks the number of files that were successfully copied and those that failed to copy.
+# This script is a batch file for the Windows command prompt that copies all files from a source directory to a destination directory. It also tracks the number of files that were successfully copied and those that failed to copy.
 
 The script begins by setting the colors of the command prompt window to yellow using the "color" command. The script then displays some ASCII art using the "echo" command.
 
