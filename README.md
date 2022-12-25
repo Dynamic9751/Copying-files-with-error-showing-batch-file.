@@ -2,7 +2,7 @@
 
 This script is a batch file for the Windows command prompt that copies all files from a source directory to a destination directory. It also tracks the number of files that were successfully copied and those that failed to copy.
 
-The script begins by setting the colors of the command prompt window to yellow using the "color" command. The script then displays some ASCII art using the "echo" command.z
+The script begins by setting the colors of the command prompt window to yellow using the `"color"` command. The script then displays some ASCII art using the `"echo"` command.z
 
 Next, the script sets the values of the "source" and "destination" variables to the directories where the files are to be copied from and to, respectively. The `"setlocal enabledelayedexpansion"` command enables the use of the "!variable!" syntax, which allows the script to access and modify variables within a loop.
 
